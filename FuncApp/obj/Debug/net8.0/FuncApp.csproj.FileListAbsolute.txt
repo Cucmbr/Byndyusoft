@@ -1,0 +1,14 @@
+C:\Projects\TestTasks\Byndyusoft\FuncApp\bin\Debug\net8.0\FuncApp.exe
+C:\Projects\TestTasks\Byndyusoft\FuncApp\bin\Debug\net8.0\FuncApp.deps.json
+C:\Projects\TestTasks\Byndyusoft\FuncApp\bin\Debug\net8.0\FuncApp.runtimeconfig.json
+C:\Projects\TestTasks\Byndyusoft\FuncApp\bin\Debug\net8.0\FuncApp.dll
+C:\Projects\TestTasks\Byndyusoft\FuncApp\bin\Debug\net8.0\FuncApp.pdb
+C:\Projects\TestTasks\Byndyusoft\FuncApp\obj\Debug\net8.0\FuncApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TestTasks\Byndyusoft\FuncApp\obj\Debug\net8.0\FuncApp.AssemblyInfoInputs.cache
+C:\Projects\TestTasks\Byndyusoft\FuncApp\obj\Debug\net8.0\FuncApp.AssemblyInfo.cs
+C:\Projects\TestTasks\Byndyusoft\FuncApp\obj\Debug\net8.0\FuncApp.csproj.CoreCompileInputs.cache
+C:\Projects\TestTasks\Byndyusoft\FuncApp\obj\Debug\net8.0\FuncApp.dll
+C:\Projects\TestTasks\Byndyusoft\FuncApp\obj\Debug\net8.0\refint\FuncApp.dll
+C:\Projects\TestTasks\Byndyusoft\FuncApp\obj\Debug\net8.0\FuncApp.pdb
+C:\Projects\TestTasks\Byndyusoft\FuncApp\obj\Debug\net8.0\FuncApp.genruntimeconfig.cache
+C:\Projects\TestTasks\Byndyusoft\FuncApp\obj\Debug\net8.0\ref\FuncApp.dll
