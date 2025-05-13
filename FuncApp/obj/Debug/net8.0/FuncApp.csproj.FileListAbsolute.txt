@@ -12,3 +12,4 @@ C:\Projects\TestTasks\Byndyusoft\FuncApp\obj\Debug\net8.0\refint\FuncApp.dll
 C:\Projects\TestTasks\Byndyusoft\FuncApp\obj\Debug\net8.0\FuncApp.pdb
 C:\Projects\TestTasks\Byndyusoft\FuncApp\obj\Debug\net8.0\FuncApp.genruntimeconfig.cache
 C:\Projects\TestTasks\Byndyusoft\FuncApp\obj\Debug\net8.0\ref\FuncApp.dll
+C:\Projects\TestTasks\Byndyusoft\FuncApp\obj\Debug\net8.0\FuncApp.sourcelink.json
